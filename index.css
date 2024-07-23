@@ -1,0 +1,144 @@
+.hiphop-container08 {
+  display: flex;
+  position: relative;
+}
+.hiphop-hiphop {
+  flex: 0;
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  position: relative;
+  align-self: flex-start;
+}
+.hiphop-root-class-name {
+  top: 91px;
+  flex: 1;
+  left: 897px;
+  height: 96px;
+  position: absolute;
+}
+
+.rock-container7 {
+  display: flex;
+  position: relative;
+}
+.rock-rock {
+  flex: 0;
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  padding: 0px;
+  position: relative;
+  align-self: flex-start;
+  border-color: #ffffff;
+  border-radius: 0px;
+}
+.rock-root-class-name {
+  top: 159px;
+  left: 223px;
+  position: absolute;
+}
+
+.jazz-container11 {
+  display: flex;
+  position: relative;
+}
+.jazz-jazz {
+  flex: 0;
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  position: relative;
+  align-self: flex-start;
+}
+.jazz-root-class-name {
+  left: 440px;
+  bottom: 115px;
+  position: absolute;
+}
+
+.country-container10 {
+  display: flex;
+  position: relative;
+}
+.country-navlink {
+  display: contents;
+}
+.country-country {
+  flex: 0;
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  position: relative;
+  align-self: flex-start;
+  text-decoration: none;
+}
+.country-root-class-name {
+  top: 316px;
+  right: 260px;
+  position: absolute;
+}
+
+.soul-container12 {
+  display: flex;
+  position: relative;
+}
+.soul-link4 {
+  display: contents;
+}
+.soul-soul {
+  flex: 0;
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  position: relative;
+  align-self: flex-start;
+  text-decoration: none;
+}
+.soul-root-class-name {
+  right: 678px;
+  bottom: 125px;
+  position: absolute;
+}
+
+.github-container6 {
+  display: flex;
+  position: relative;
+}
+.github-link2 {
+  display: contents;
+}
+.github-github {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: relative;
+  text-decoration: none;
+}
+.github-root-class-name {
+  top: 12px;
+  right: 16px;
+  position: absolute;
+}
+
+.linked-in-container09 {
+  display: flex;
+  position: relative;
+}
+.linked-in-link3 {
+  display: contents;
+}
+.linked-in-linked-in {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: relative;
+  text-decoration: none;
+}
+.linked-in-root-class-name {
+  top: 86px;
+  right: 16px;
+  position: absolute;
+}
+
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
